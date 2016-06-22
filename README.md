@@ -17,7 +17,7 @@ var PastebinAPI = require('pastebin-js'),
 ```
 
 
-## Features
+## Features  
 
 * getPaste : get a raw paste
 * createAPIuserKey : get a userkey for the authenticated user
